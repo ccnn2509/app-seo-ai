@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/ccnn2509-app-seo-ai-badge.png)](https://mseep.ai/app/ccnn2509-app-seo-ai)
+
 # App SEO AI
 
 Application for SEO automation and AI-powered optimization with Google Ads Keyword Planner integration.
